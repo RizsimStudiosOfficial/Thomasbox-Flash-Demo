@@ -13,11 +13,11 @@
 <root>
 
 	<appInfo>
-		<name>Alpha</name>
-		<version>1</version>
-		<annee>2009</annee>
-		<duree>5.333</duree>
-		<frame>256</frame>
+		<name>Amogus</name>
+		<version>21</version>
+		<annee>2025</annee>
+		<duree>6.857</duree>
+		<frame>328</frame>
 		<bonusloopA>true</bonusloopA>
 		<volencode>0.8</volencode>  <!-- I dont even know what is this -->
 	</appInfo>
@@ -28,55 +28,60 @@
 
 		<son picto="picto0" posPicto="40,80">
 			<swf>costume-v1/1_lead.swf</swf>
-			<mp3>sound-v1/1_lead_a.mp3</mp3>
+			<mp3>sound-v1/1_joshua_a.mp3</mp3>
+                        <mp3>sound-v1/1_joshua_b.mp3</mp3>
 		</son>
 		<son picto="picto1" posPicto="40,80">
 			<swf>costume-v1/2_deux.swf</swf>
-			<mp3>sound-v1/2_deux_a.mp3</mp3>
+			<mp3>sound-v1/2_jake_a.mp3</mp3>
+                        <mp3>sound-v1/2_jake_b.mp3</mp3>
 		</son>
 		<son picto="picto2" posPicto="40,80">
 			<swf>costume-v1/3_kosh.swf</swf>
-			<mp3>sound-v1/3_kosh_a.mp3</mp3>
+			<mp3>sound-v1/3_joe_a.mp3</mp3>
+                        <mp3>sound-v1/3_joe_b.mp3</mp3>
 		</son>
 		<son picto="picto3" posPicto="40,80">
 			<swf>costume-v1/4_shpok.swf</swf>
-			<mp3>sound-v1/4_shpok_a.mp3</mp3>
+			<mp3>sound-v1/4_david_a.mp3</mp3>
 		</son>
 		<son picto="picto4" posPicto="40,80">
 			<swf>costume-v1/5_tom.swf</swf>
-			<mp3>sound-v1/5_tom_a.mp3</mp3>
+			<mp3>sound-v1/5_james_a.mp3</mp3>
 		</son>
 
 
 		<son picto="picto5" posPicto="40,80">
 			<swf>costume-v1/6_nouana.swf</swf>
-			<mp3>sound-v1/6_nouana_a.mp3</mp3>
+			<mp3>sound-v1/6_apk_a.mp3</mp3>
 		</son>
 		<son picto="picto6" posPicto="40,80">
 			<swf>costume-v1/7_scratch.swf</swf>
-			<mp3>sound-v1/7_scratch_a.mp3</mp3>
+			<mp3>sound-v1/7_reciever_a.mp3</mp3>
 		</son>
 		<son picto="picto7" posPicto="40,80">
 			<swf>costume-v1/8_trill.swf</swf>
-			<mp3>sound-v1/8_trill_a.mp3</mp3>
+			<mp3>sound-v1/8_observer_a.mp3</mp3>
+			<mp3>sound-v1/8_observer_b.mp3</mp3>
 		</son>
 		<son picto="picto8" posPicto="40,80">
 			<swf>costume-v1/9_bass.swf</swf>
-			<mp3>sound-v1/9_bass_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto9" posPicto="40,80">
 			<swf>costume-v1/10_uh.swf</swf>
-			<mp3>sound-v1/10_uh_a.mp3</mp3>
+			<mp3>sound-v1/10_steven_a.mp3</mp3>
+                        <mp3>sound-v1/10_steven_b.mp3</mp3>
 		</son>
 
 
 		<son picto="picto10" posPicto="40,80">
 			<swf>costume-v1/11_nugu.swf</swf>
-			<mp3>sound-v1/11_nugu_a.mp3</mp3>
+			<mp3>sound-v1/11_red-mungus_a.mp3</mp3>
 		</son>
 		<son picto="picto11" posPicto="40,80">
 			<swf>costume-v1/12_guit.swf</swf>
-			<mp3>sound-v1/12_guit_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto12" posPicto="40,80">
 			<swf>costume-v1/13_tromp.swf</swf>
@@ -84,33 +89,33 @@
 		</son>
 		<son picto="picto13" posPicto="40,80">
 			<swf>costume-v1/14_pouin.swf</swf>
-			<mp3>sound-v1/14_pouin_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto14" posPicto="40,80">
 			<swf>costume-v1/15_tung.swf</swf>
-			<mp3>sound-v1/15_tung_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 
 
 		<son picto="picto15" posPicto="40,80">
 			<swf>costume-v1/16_anoun.swf</swf>
-			<mp3>sound-v1/16_anoun_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto16" posPicto="40,80">
 			<swf>costume-v1/17_hum.swf</swf>
-			<mp3>sound-v1/17_hum_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto17" posPicto="40,80">
 			<swf>costume-v1/18_get.swf</swf>
-			<mp3>sound-v1/18_get_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto18" posPicto="40,80">
 			<swf>costume-v1/19_tellme.swf</swf>
-			<mp3>sound-v1/19_tellme_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto19" posPicto="40,80">
 			<swf>costume-v1/20_make.swf</swf>
-			<mp3>sound-v1/20_make_a.mp3</mp3>
+			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 
 <!-- AS THE BONUSES SWF'S ARE LOST, THERE WILL BE NO BONUSES -->

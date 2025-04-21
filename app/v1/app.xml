@@ -65,7 +65,7 @@
 			<mp3>sound-v1/8_observer_b.mp3</mp3>
 		</son>
 		<son picto="picto8" posPicto="40,80">
-			<swf>costume-v1/9_bass.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto9" posPicto="40,80">
@@ -80,7 +80,7 @@
 			<mp3>sound-v1/11_red-mungus_a.mp3</mp3>
 		</son>
 		<son picto="picto11" posPicto="40,80">
-			<swf>costume-v1/12_guit.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto12" posPicto="40,80">
@@ -89,33 +89,33 @@
 			<mp3>sound-v1/13_headband_b.mp3</mp3>
 		</son>
 		<son picto="picto13" posPicto="40,80">
-			<swf>costume-v1/14_pouin.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto14" posPicto="40,80">
-			<swf>costume-v1/15_tung.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 
 
 		<son picto="picto15" posPicto="40,80">
-			<swf>costume-v1/16_anoun.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto16" posPicto="40,80">
-			<swf>costume-v1/17_hum.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto17" posPicto="40,80">
-			<swf>costume-v1/18_get.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto18" posPicto="40,80">
-			<swf>costume-v1/19_tellme.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 		<son picto="picto19" posPicto="40,80">
-			<swf>costume-v1/20_make.swf</swf>
+			<swf>costume-v1/0_wip.swf</swf>
 			<mp3>sound-v1/0_placeholder_a.mp3</mp3>
 		</son>
 

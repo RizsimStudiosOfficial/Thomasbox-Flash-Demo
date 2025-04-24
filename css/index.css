@@ -716,7 +716,7 @@ span {
     -webkit-transition: all 0.15s ease-out 0.1s;
 }
 .home .game#appv1:hover .p1 {
-    background-color: #0a7fb8;
+    background-color: #da3d3c;
     background-position: center center;
     transform: scale(1.3);
     transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -778,8 +778,8 @@ span {
 /* ----- COLOR / BORDER / BCK-IMG BT HOME */
 
 .home .game#appv1 {
-    color: #0a7fb8;
-    border-color: #0a7fb8;
+    color: #da3d3c;
+    border-color: #da3d3c;
 }
 .home .game#appv2 {
     color: #c32d2d;

@@ -1,6 +1,7 @@
 # Thomasbox V21 "Amogus" DEMO
 
-This shit took 3 in a half days to do, with some procasnation ofc! 
+This shit took 3 in a half days to do, with some procasnation ofc!
+
 So enjoy what this mod has to offer atm.
 
 # Big thanks to...
